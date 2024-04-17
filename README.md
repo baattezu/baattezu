@@ -1,8 +1,7 @@
 -  Hi, I’m @baattezu
--  I'm interested in бабки
-- 🌱 I’m currently learning Java, Spring, React ()
-- 😄 Pronouns: the lord
-- ⚡ Fun fact: ore wa panda
+-  I'm Java Backend Developer
+- 🌱 I’m currently learning Java, Spring, Docker
+
 
 <!---
 baattezu/baattezu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
