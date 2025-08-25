@@ -1,7 +1,7 @@
--  Hi, I’m @baattezu
--  I'm Java Backend Developer
-- 🌱 I’m currently learning Java, Spring, Docker
+-  Hi, I’m @baattezu (Temirkhan)
+-  I'm Software Engineer.
 
+Here you can see my projects primarily on Java, Kotlin. 
 
 <!---
 baattezu/baattezu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
