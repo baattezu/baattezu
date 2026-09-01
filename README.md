@@ -3,24 +3,8 @@
 hi i’m temirkhan
 software engineer
 
-java, rust
-c++, go 
+java, rust, c++, go 
 
 😎🤙🏾
-
-⸻
-distributed systems
-networking
-linux
-concurrency
-databases
-performance
-rust / c++ / go
-⸻
-stack
-java kotlin go rust c++ python
-spring postgres redis kafka
-linux docker prometheus grafana
-⸻
 
 ヾ(•ω•`)o
