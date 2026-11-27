@@ -21,7 +21,7 @@ I build products end to end and like the places where backend, data and AI meet.
 | [sitesfor.me](https://sitesfor.me) | Website builder + CRM for small businesses in Kazakhstan. Built solo, live | Hono, React 19, Cloudflare Workers, Drizzle, Claude API |
 | [batyrsbee.com](https://batyrsbee.com) | Trips for your dates and budget: flight, hotel and events, one price | Next.js, Hono, PostgreSQL |
 | [temirslearn](https://github.com/baattezu/temirslearn) | 150 lessons, 205 problems, a Python judge running in the browser | React, Hono, Pyodide, D1 |
-| [temirsjob](https://github.com/baattezu/temirsjob) | Job search on autopilot: 7 sources, rule scoring, LLM judge | TypeScript, Workers AI, D1 |
+| [recommendation engine](https://github.com/baattezu/hp-recommendation-engine-prototype) | Customer behaviour → personalised products + push notifications | Python, data pipeline |
 | [kaznlp](https://github.com/baattezu/kaznlp) | Kazakh NLP data prep: PII masking, MinHash dedup, evaluation | Python |
 | [openchats](https://github.com/baattezu/openchats) | Shared inbox and CRM messaging API | Go, PostgreSQL, React |
 | [job-workflow-engine](https://github.com/baattezu/job-workflow-engine) | Workflow engine, hand-written | Go |
